@@ -1,0 +1,9 @@
+git add .gitignore
+git commit -m "message" .gitignore
+# Cocoapods
+Pods/
+xcuserdata/
+
+# Mac OS X Finder
+.DS_Store
+
